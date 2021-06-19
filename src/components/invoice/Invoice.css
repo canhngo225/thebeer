@@ -1,0 +1,24 @@
+.ant-modal-title{
+    font-size: x-large;
+    text-align: center;
+}
+
+.ant-table-thead > tr >th{
+    background-color: #b59ad4;
+}
+
+.ant-table-column-title{
+    text-align: center;
+}
+
+element.style {
+    text-align: center;
+}
+
+.ant-table-thead > tr > th.ant-table-cell.ant-table-cell-eclipse{
+    text-align: center;
+}
+
+.ant-form-item-explain{
+    width: 100;
+}

@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.ant-form-item-required::before {
+  content: ''!important;
+}
+.ant-form-item-required::after {
+  display: inline-block !important;
+  margin-right: 4px !important;
+  color: #ff4d4f !important;
+  font-size: 14px !important;
+  font-family: SimSun, sans-serif !important;
+  line-height: 1 !important;
+  content: "*" !important;
+}
